@@ -36,6 +36,7 @@ let headmaster = 'akalesh';
 // const is a keyword used to declare a variable in javascript
 // const can't be redeclared or updated
 // const must be assigned a value at the time of declaration
-const myConstVariable;
+const myConstVariable = 10;
 const name = 'hi';
 
+// = assignment operator
